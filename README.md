@@ -1,4 +1,6 @@
 # website
 1st attempt
-Inspiration
-	http://www.ge.com
+
+## inspiration
+
+[GE](www.ge.com)
