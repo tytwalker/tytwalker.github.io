@@ -19,3 +19,7 @@ Ty's first website
 [CSS Intro](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
 
 [HTML Intro](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction)
+
+[HTML Tags](http://4b93n32qwvjj3ddn5w3yhffoas6.wpengine.netdna-cdn.com/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf)
+
+[HTML Special Characters](http://www.utexas.edu/learn/html/spchar.html)
