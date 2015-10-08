@@ -1,5 +1,5 @@
-# website
-1st attempt
+# [tytwalker.github.io](https://tytwalker.github.io)
+Ty's first website
 
 ## inspiration
 
