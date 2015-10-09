@@ -1,4 +1,4 @@
-# # [tytwalker.github.io](https://tytwalker.github.io)
+# [tytwalker.github.io](https://tytwalker.github.io)
 Ty's website
 
 ## inspiration
