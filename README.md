@@ -1,5 +1,5 @@
-# [tytwalker.github.io](https://tytwalker.github.io)
-Ty's first website
+# website
+1st attempt
 
 ## inspiration
 
@@ -23,3 +23,9 @@ Ty's first website
 [HTML Tags](http://4b93n32qwvjj3ddn5w3yhffoas6.wpengine.netdna-cdn.com/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf)
 
 [HTML Special Characters](http://www.utexas.edu/learn/html/spchar.html)
+
+[HTML5 Tags](http://4b93n32qwvjj3ddn5w3yhffoas6.wpengine.netdna-cdn.com/wp-content/uploads/2012/10/HTML5-Cheatsheet-Skillcrush.pdf)
+
+[Try Ruby]( www.tryruby.org)
+
+[Ruby Strings](http://ruby-doc.org/core-2.2.3/String.html)
