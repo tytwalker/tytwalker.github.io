@@ -29,3 +29,9 @@ Ty's website
 [Try Ruby]( www.tryruby.org)
 
 [Ruby Strings](http://ruby-doc.org/core-2.2.3/String.html)
+
+[Learn Python](http://learnpythonthehardway.org/book/)
+
+[CSS Colors](http://www.crockford.com/wrrrld/color.html)
+
+[Google Fonts](https://www.google.com/fonts)
