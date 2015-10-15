@@ -35,3 +35,12 @@ Ty's website
 [CSS Colors](http://www.crockford.com/wrrrld/color.html)
 
 [Google Fonts](https://www.google.com/fonts)
+
+[Bootstrap+CSS](http://getbootstrap.com/css/)
+
+[Bootstrap](http://getbootstrap.com/getting-started/#download)
+
+[HTML Syntax](http://pbar.fnal.gov/htmlref.html#top)
+
+[HTML Element Reference](http://www.w3schools.com/tags/default.asp)
+
