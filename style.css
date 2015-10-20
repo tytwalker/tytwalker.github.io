@@ -1,0 +1,51 @@
+/* CSS Sheets are help full for working with HTML elements and design
+
+# denote div ids
+'.' denote classes
+
+img,li are examples of reserved names in html/css
+
+It's really just learning to mix and match things. :)
+*/
+
+/* here we set the text to always be to the left for list elements*/
+li{
+	text-align: left;
+}
+
+/* the default color for links is blue, but sometiemes that doesn't work for the color scheme*/
+a{
+	color: black;
+}
+
+/*define the width and height of pictures to keep them the same.*/
+img
+{
+	max-width: 750px;
+	max-height: 1000px;
+}
+
+/* here we see the use of a div id, in this isntance we created a left bar. This holds all the information you want,
+   in this case I made if your introduction and social media */
+#leftBar{
+	
+	height:100%;
+	width:15%;
+	background-color: #A34747;
+	float: left;
+	margin: 0 auto;
+	text-align: center;
+	
+}
+
+/* Here hold everything about you. Kind of like how tumblr has the side panel and then the main panel of your posts!*/
+#centerBar{
+	float: center;
+	height:100%;
+	
+	width:65%;
+	background-color: #A34747;
+	
+	margin: 0 auto;
+	text-align: center;
+}
