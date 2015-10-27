@@ -1,0 +1,12 @@
+h1 {
+	color: magenta;
+	font-weight: bold;
+	font-family: Garamond;
+}
+
+/* comment */
+
+* {
+	color: black;
+	font-family: Garamond;
+}
