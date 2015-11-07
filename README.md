@@ -44,3 +44,5 @@ Ty's website
 
 [HTML Element Reference](http://www.w3schools.com/tags/default.asp)
 
+[Web Safe Colors](https://en.wikipedia.org/wiki/Web_colors)
+
