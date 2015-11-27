@@ -1,12 +1,35 @@
+html { 
+  background: cornflowerblue no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    
+}
+
+.main {
+	color: white;
+}
+
+
 h1 {
-	color: magenta;
-	font-weight: bold;
-	font-family: Garamond;
-}
-
-/* comment */
-
-* {
 	color: black;
-	font-family: Garamond;
+	font-weight: bold;
+	font-family: arial;
 }
+
+p {
+    font-family: arial;
+    height: 50px;
+    width: 1100px;
+}
+
+img {
+    border: 9px solid black;
+    height: 400px;
+    width: 600px;
+    padding: 5px;
+        
+}
+    
+
