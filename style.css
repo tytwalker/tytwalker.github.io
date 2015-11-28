@@ -7,15 +7,27 @@ html {
     
 }
 
-.main {
-	color: white;
-}
-
-
 h1 {
-	color: black;
+	color: white;
 	font-weight: bold;
 	font-family: arial;
+}
+
+#main {
+	color: white;
+	float: left;
+}
+
+#summary {
+	color: mistyrose;
+}
+
+.enjoy {
+	color: linen;
+}
+
+.captions {
+	color: honeydew;
 }
 
 p {
@@ -31,5 +43,11 @@ img {
     padding: 5px;
         
 }
-    
 
+#social {
+	color:floralwhite;
+}
+
+.social-media-links {
+	color: black;
+}
