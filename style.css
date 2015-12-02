@@ -108,7 +108,6 @@ img {
 #modal-popup {
 	top: 300px;
 	width: 300px;
-	background-color: black;
 	z-index: 200;
 	position: fixed;
 }
