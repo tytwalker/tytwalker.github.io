@@ -99,9 +99,10 @@ img {
 	font-family: 'Bitter';
 }
 
-.social-media-links {
+.social-media {
 	color: black;
 	font-family: 'Bitter';
+  float: left;
 }
 
 #modal-popup {
