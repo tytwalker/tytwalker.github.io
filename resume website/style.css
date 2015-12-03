@@ -72,10 +72,11 @@ body {
   float: right;
   margin-top: 40px;
   width: 380px;
-  height: 485px;
+  height: 550px;
   padding: 5px 0px 10px 20px;
   border-bottom-left-radius:5px;
   border-top-left-radius:5px; 
+  overflow: auto;
 }
 
 h1 {
@@ -103,7 +104,8 @@ p {
 }
 
 .social-media {
-  float: left;
+  float: none;
+
   
   
 }
