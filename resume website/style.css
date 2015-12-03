@@ -50,7 +50,7 @@ input, select { vertical-align: middle; }
 /* Write your CSS styles here */
 
 html { 
-  background: url('file:///Users/tywalker/Downloads/Background-Photo-Pack/Skillcrush_Computer.jpeg');
+  background: url(../images/Skillcrush_Computer.jpg); 
   background-position: center;
   background-attachment: fixed;
   -webkit-background-size: cover; 
@@ -104,5 +104,6 @@ p {
 
 .social-media {
   float: left;
+  
   
 }
