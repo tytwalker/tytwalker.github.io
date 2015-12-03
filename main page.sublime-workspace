@@ -19,7 +19,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 2165,
+				"buffer_size": 2118,
 				"line_ending": "Unix"
 			}
 		},
@@ -27,7 +27,7 @@
 			"file": "style.css",
 			"settings":
 			{
-				"buffer_size": 2308,
+				"buffer_size": 2282,
 				"line_ending": "Unix"
 			}
 		}
@@ -81,6 +81,7 @@
 	},
 	"file_history":
 	[
+		"/Users/tywalker/Desktop/index.html",
 		"/Users/tywalker/Dropbox/website/resume website/index.html",
 		"/Users/tywalker/Dropbox/website/style.css",
 		"/Users/tywalker/Dropbox/website/index.html",
@@ -134,15 +135,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2165,
+						"buffer_size": 2118,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								2006,
+								2006
 							]
 						],
 						"settings":
@@ -152,10 +153,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 312.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -170,15 +171,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2308,
+						"buffer_size": 2282,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								2039,
+								2039
 							]
 						],
 						"settings":
@@ -187,11 +188,11 @@
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 0.0,
-						"translation.y": 1016.0,
+						"translation.x": 4.0,
+						"translation.y": 997.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -273,7 +274,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
