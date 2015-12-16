@@ -46,3 +46,11 @@ Ty's website
 
 [Web Safe Colors](https://en.wikipedia.org/wiki/Web_colors)
 
+[Events](https://developer.mozilla.org/en-US/docs/Web/Events)
+
+[JavaScript HTML DOM](http://www.w3schools.com/js/js_htmldom.asp)
+
+[What is DOM?](http://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
+
+[UI Events Specification](https://w3c.github.io/uievents/)
+
