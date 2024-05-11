@@ -46,9 +46,3 @@ Ty's website
 	- [Markdown:Syntax](https://daringfireball.net/projects/markdown/syntax)
 - **Git**
 	- [Git Basics](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
-- **Sublime**
-	- [Sublime Text](https://www.sublimetext.com)
-- **Ruby & Python**
-	- [Try Ruby]( www.tryruby.org)
-	- [Ruby Strings](http://ruby-doc.org/core-2.2.3/String.html)
-	- [Learn Python](http://learnpythonthehardway.org/book/)
