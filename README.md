@@ -1,6 +1,16 @@
 # [tytwalker.github.io](https://tytwalker.github.io)
 Ty's website
 
+
+## to do
+
+- [ ] Update README with setup instructions for editing website
+- [ ] Update README with instructions on how to edit website
+- [ ] Update summary 
+- [ ] Add references
+- [ ] Add creative works (newsletter etc.)
+
+
 ## inspiration
 
 - [GE](www.ge.com)
